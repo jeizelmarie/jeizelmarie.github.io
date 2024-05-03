@@ -19,11 +19,11 @@ body {
 }
 
 .c_orange {
-	color: orange;
+	color: rgb(72, 67, 67);
 }
 
 .c_red {
-	color: red;
+	color: rgb(72, 67, 67);
 }
 
 .t_center {
@@ -40,7 +40,7 @@ header h2 {
 }
 
 header h2 span {
-	color: orange;
+	color: powderblue;
 }
 
 .wrapper {
@@ -68,11 +68,11 @@ header h2 span {
 	padding: 0 10px;
 	font-size: 18px;
 	text-decoration: none;
-	color: white;
+	color: pink;
 }
 
 #navigation ul li a:hover {
-	color: orange;
+	color: powderblue;
 	text-decoration: underline;
 }
 
@@ -103,7 +103,7 @@ header h2 span {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	color: #fff;
+	color: whitesmoke;
 	text-align: center;
 	width: 900px;
 	padding: 15px;
@@ -127,9 +127,9 @@ header h2 span {
 .banner_info a {
 	display: block;
 	width: 110px;
-	background: orange;
+	background: powderblue;
 	line-height: 50px;
-	color: #fff;
+	color: #454141;
 	text-decoration: none;
 	border-radius: 10px;
 	margin: 25px auto 0;
@@ -155,7 +155,7 @@ header h2 span {
 }
 
 .service_boxes section {
-	border: 2px solid orange;
+	border: 2px solid pink;
 	width: 560px;
 	padding: 15px;
 	box-sizing: border-box;
@@ -178,9 +178,9 @@ header h2 span {
 .service_boxes section a {
     display: block;
     width: 110px;
-    background: orange;
+    background: powderblue;
     line-height: 50px;
-    color: #fff;
+    color: #454141;
     text-decoration: none;
     border-radius: 10px;
     margin: 25px auto 0;
@@ -240,7 +240,7 @@ header h2 span {
 
 @media screen and (max-width: 600px) { 
 	#navigation ul{
-		background: black;
+		background: #454141;
 		padding: 24px 15px;
 		text-align: center;
 		position: static;
